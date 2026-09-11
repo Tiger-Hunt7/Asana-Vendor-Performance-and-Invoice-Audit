@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.inspect.ndjson
+*_preview.png
